@@ -1,0 +1,121 @@
+
+body{
+  /* display: grid;
+  grid-gap: 30px;
+  grid-row-gap: 30px; */
+  width: 901px;
+    display: grid;
+    margin: auto;
+}
+
+main{
+    /* width: 960px;
+    display: grid;
+    margin: auto; */
+}
+
+header{
+    
+}
+
+
+.logo{
+
+    float: left;
+   margin-right: 5px;
+}
+
+
+
+
+.logosection{
+    float:left;
+    margin: auto;
+}
+
+/* header section p{
+ 
+    margin: 0 10px;
+} */
+
+
+.toplogo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.bottomlogo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li{
+   display: inline;
+
+}
+
+ul{
+    float: right;
+}
+
+ .divtop{
+    margin-bottom: 30px;
+}
+
+main section p {
+    margin: 5px 0;
+   
+
+  
+}
+
+main section img {
+    float: right ;
+
+
+   
+
+  
+}
+
+
+.psection{
+font-family: cursive ;
+
+}
+
+form {
+    position: absolute;
+    vertical-align: bottom;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: auto  auto;
+} 
+
+ /* label {
+     display: block;
+    padding-left: 1px;
+    text-indent: -15px;
+} */
+
+input {
+    /* width: 15px;
+    height: 15px;
+    padding: 0;
+    margin: 0;
+    vertical-align: bottom;
+    position: relative;
+    top: -1px; */
+    width: 100px;
+    display:inline-block;
+    margin-top:10px  ;
+    margin-left:100px;
+   
+
+    
+  }
+
+  .lablsectio{
+      margin-top: 50px;
+  }
+
+
+
+
